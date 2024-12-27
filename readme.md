@@ -1,4 +1,9 @@
+
+
 # Twitter Trends Scraper
+
+![image](https://github.com/user-attachments/assets/7f547925-fa09-43a7-98c3-390b0a8e6a26)
+
 
 A web application that automatically scrapes trending topics from Twitter using Selenium WebDriver, stores the data in MongoDB, and displays results through a simple web interface. The application uses proxy rotation for making requests and maintains a historical record of trending topics.
 
